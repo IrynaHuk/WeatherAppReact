@@ -1,0 +1,20 @@
+.theWeather {
+  background-color: #bfe9eb;
+  font-family: sans-serif;
+  text-align: center;
+}
+h1,
+h2 {
+  color: blue;
+}
+
+.searchButton {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+.theWeather {
+  border-style: solid;
+  border-radius: 10px;
+  border-color: blue;
+}
